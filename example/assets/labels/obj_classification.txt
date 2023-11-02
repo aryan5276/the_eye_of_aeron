@@ -1,0 +1,5 @@
+multi-rotor
+fixed-wing
+single-rotor
+VTOL
+bird
